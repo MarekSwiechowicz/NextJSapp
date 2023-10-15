@@ -26,8 +26,7 @@
   },
   "rules": {
     "indent": ["error", 2, { "SwitchCase": 1 }],
-    "quotes": ["error", "double"],
-    "semi": ["error", "always"],
+    "quotes": ["error", "single"],
     "no-console": "warn",
     "react/prop-types": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off"
